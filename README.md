@@ -29,8 +29,8 @@ Soy Desarrollador FullStack Developer, y soy apacionado de la tecnología
 | Comando | Descripción                         |
 |---------|-------------------------------------|
 |ls       | Lista el contenido de un directorio |
-|cd       | descripcion                         |  
-|yarn     | des                                 |
+|cd       | Cambiar entre directorio            |  
+|yarn     | instalar dependencias               |
 |gst      | Alias de git status                 |
 |clear    | Limpiar terminal                    |
 |alias    | Listar alias                        |
