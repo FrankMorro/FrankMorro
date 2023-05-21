@@ -26,6 +26,8 @@ Soy Desarrollador FullStack Developer, y soy apacionado de la tecnología
 - Aprender sobre Git
 - Aprender más sobre JavaScript
 
+## Comando más utilizados
+
 | Comando | Descripción                         |
 |---------|-------------------------------------|
 |ls       | Lista el contenido de un directorio |
