@@ -46,9 +46,9 @@ Me encanta la tecnología, la lógica y la programación, y por supuesto, los vi
 
 | Comando | Descripción                         |
 |---------|-------------------------------------|
-|ls       | Lista el contenido de un directorio |
-|cd       | Cambiar entre directorio            |  
-|yarn     | instalar dependencias               |
-|gst      | Alias de git status                 |
-|clear    | Limpiar terminal                    |
-|alias    | Listar alias                        |
+| `ls`    | Lista el contenido de un directorio |
+| `cd`    | Cambiar entre directorio            |  
+| `yarn`  | instalar dependencias               |
+| `gst`   | Alias de git status                 |
+| `clear` | Limpiar terminal                    |
+| `alias` | Listar alias                        |
