@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 📫 Desarroollador Microsoft . Net
 
 ## 🌱 Ávido Estudiante de JavaScript y sus tecnologías a fines.
-Soy Desarrollador .Net, con experiencia creando aplicaciones Windows empresariales con acceso a datos. Sigo estudiando y aprendiendo, y sobre todo ampliando todos mis conocimientos sobre la tecnologías web. Es por eso que estoy suiguiendo el Bootcamp en https://undefined.academy impartido por Guillermo Rodas, y estudiando otros recursos en la Web, y poder convertirme en un Full-stack JavaScript Develope. Para lograrlo, estoy seguro que es algo mucho más que esto, pero es un buen comienzo.
+Soy Desarrollador .Net, con experiencia creando aplicaciones Windows empresariales con acceso a datos. Sigo estudiando y aprendiendo, y sobre todo ampliando todos mis conocimientos sobre las tecnologías web. Es por eso que estoy suiguiendo el Bootcamp en https://undefined.academy impartido por Guillermo Rodas, y estudiando otros recursos en la Web, y poder convertirme en un Full-stack JavaScript Develope. Para lograrlo, estoy seguro que es algo mucho más que esto, pero es un buen comienzo.
 
 Me encanta la tecnología, la lógica y la programación, y por supuesto, los videos juegos. Cuando requiero descanzar un rato del código, un video juego siempre es una buena opción.
 
