@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Johnny Rafael Martinez
+# Johnny R. Martínez
 ## 📫 Desarroollador Microsoft . Net
 
 ## 🌱 Ávido Estudiante de JavaScript y sus tecnologías a fines.
