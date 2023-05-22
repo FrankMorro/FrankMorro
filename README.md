@@ -48,7 +48,7 @@ Me encanta la tecnología, la lógica y la programación, y por supuesto, los vi
 |---------|-------------------------------------|
 | `ls`    | Lista el contenido de un directorio |
 | `cd`    | Cambiar entre directorio            |  
-| `yarn`  | instalar dependencias               |
+| `yarn`  | Instalar dependencias               |
 | `gst`   | Alias de git status                 |
 | `clear` | Limpiar terminal                    |
 | `alias` | Listar alias                        |
