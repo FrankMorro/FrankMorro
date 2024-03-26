@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Johnny R. Martínez
-## 📫 Desarroollador Microsoft . Net
+## 📫 Desarroollador Microsoft .Net
 
 ## 🌱 Ávido Estudiante de **JavaScript** y sus tecnologías a fines.
 Soy Desarrollador .Net, con experiencia creando aplicaciones Windows empresariales con acceso a datos. Sigo estudiando y aprendiendo, y sobre todo ampliando todos mis conocimientos sobre las tecnologías web. Es por eso que estoy suiguiendo el Bootcamp en [Undefined Academy](https://undefined.academy) impartido por Guillermo Rodas, y estudiando otros recursos en la Web, como [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript), [freeCodeCamp](https://www.freecodecamp.org/espanol/learn), [Excercism](https://exercism.org/) entre otros, y poder convertirme en un ***Full Stack JavaScript Develope***. Para lograrlo, estoy seguro que es algo mucho más que esto, pero es un buen comienzo. Como alguien dijo alguna vez: 
