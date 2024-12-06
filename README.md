@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 # Johnny R. Martínez
 ## 📫 Desarrollador Microsoft .Net
 
-## 🌱 Ávido Estudiante de **.Net Core**, **C#** y **dotnet** y sus tecnologías a fines.
-Soy Desarrollador .Net, con experiencia creando aplicaciones Windows empresariales con acceso a datos. Sigo estudiando y aprendiendo, y sobre todo ampliando todos mis conocimientos sobre las tecnologías web con C# y JavaScript. Es por eso que estoy estudiando otros recursos en la Web, como [Microsoft Learn](https://learn.microsoft.com/es-es/dotnet/csharp/), [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript), [freeCodeCamp](https://www.freecodecamp.org/espanol/learn), [Excercism](https://exercism.org/) entre otros, y poder convertirme en un ***Full Stack C#/JavaScript Develope***. Para lograrlo, estoy seguro que es algo mucho más que esto, pero es un buen comienzo. Como alguien dijo alguna vez: 
+## 🌱 Aprendiz ávido de **.Net Core**, **C#** y **dotnet** y sus tecnologías afines.
+Soy Desarrollador .Net con experiencia en la creación de aplicaciones empresariales para Windows con acceso a datos. Continuamente estoy estudiando y aprendiendo, ampliando mis conocimientos sobre tecnologías modernas.
+
 >Para aprender a programar, hay que programar.
 
-Y es exactamente lo que estoy haciendo. Programar, programar, y programar. He creado muchos proyectos con la tecnología .Net, y sigo creando. Y ahora me he embarcado en mejorar mis habilidades para crear Aplicaciones que funcionen en la Web. Por lo que también he creado algunos Projectos con C#, ASP.NET, WindowsForm, JavaScript y sigo creando.
+Eso es exactamente lo que hago: programar, programar y programar. He creado numerosos proyectos con la tecnología .Net y continúo desarrollando más. Ahora, también estoy mejorando mis habilidades para crear aplicaciones web modernas.
 
-Me encanta la tecnología, la lógica y la programación, y por supuesto, los videos juegos. Cuando requiero descanzar un rato del código, un video juego siempre es una buena opción.
+Me apasiona la tecnología, la lógica y la programación, y por supuesto, los videojuegos. Cuando necesito un descanso del código, jugar videojuegos siempre es una buena opción.
 
 ## Técnologías utilizadas
 
@@ -39,9 +40,9 @@ Me encanta la tecnología, la lógica y la programación, y por supuesto, los vi
 - HTML
 
 ### Siempre Mejorando
-- Aprender más sobre las tecnologías de DotNet de Microdoft
-- Aprender más sobre JavaScript y sus tecnologías Web
-- Conocer mejor la Terminal y el MarkDown
+- Aprender más sobre las tecnologías de DotNet de Microsoft
+- Profundizar en JavaScript y sus tecnologías web
+- Mejorar mis habilidades con la Terminal y Markdown
 - Aprender más sobre Git
 
 ## Comando más utilizados
