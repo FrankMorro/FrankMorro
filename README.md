@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 # Johnny R. Martínez
 ## 📫 Desarrollador Microsoft .Net
 
-## 🌱 Aprendiz ávido de **.Net Core**, **C#** y **dotnet** y sus tecnologías afines.
-Soy Desarrollador .Net con experiencia en la creación de aplicaciones empresariales para Windows con acceso a datos. Continuamente estoy estudiando y aprendiendo, ampliando mis conocimientos sobre tecnologías modernas.
+## 🌱 Entusiasta ávido de **.Net Core**, **C#** y **dotnet** y sus tecnologías afines.
+Soy Desarrollador .Net con muchos años de experiencia en la creación de aplicaciones empresariales para WindowsForms con acceso a datos utilizando SQL Server. Continuamente estoy estudiando y aprendiendo para ampliar mis conocimientos, especialmente en el desarrollo de aplicaciones web modernas.
 
 >Para aprender a programar, hay que programar.
 
