@@ -35,7 +35,9 @@ Me apasiona la tecnología, la lógica y la programación, y por supuesto, los v
 - C# 
 - VB
 - GIT
-- JavaScript
+- Astro
+- React
+- JavaScript / TypeScript
 - CSS
 - HTML
 
