@@ -30,7 +30,9 @@ Me apasiona la tecnología, la lógica y la programación, y por supuesto, los v
 ## Técnologías utilizadas
 
 - SQL Server
+- SQL
 - ASP.NET Core
+- API RESTful
 - Blazor
 - C# 
 - VB
