@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 📫 Desarrollador Microsoft .NET
 
 ## 🌱 Entusiasta ávido de **.NET Core**, **C#**, **dotnet** y sus tecnologías afines.
-Soy Desarrollador .Net con muchos años de experiencia en la creación de aplicaciones empresariales para WindowsForms con acceso a datos utilizando SQL Server. Continuamente estoy estudiando y aprendiendo para ampliar mis conocimientos, especialmente en el desarrollo de aplicaciones web modernas.
+Soy Desarrollador .Net con 20+ años de experiencia en la creación de aplicaciones empresariales para WindowsForms con acceso a datos utilizando SQL Server. Continuamente estoy estudiando y aprendiendo para ampliar mis conocimientos, especialmente en el desarrollo de aplicaciones web modernas.
 
 >Para aprender a programar, hay que programar.
 
